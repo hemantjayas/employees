@@ -1,0 +1,14 @@
+.Home{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    row-gap: 1rem;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.cards{
+    width: 25%;
+    height: fit-content;
+    text-align: center;
+}
